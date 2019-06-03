@@ -1,3 +1,4 @@
 “Hello world!” - said everyone, always
 "Bye, Felicia" - Ice Cube
 "Hate hate hate, loathe entirely." -The Grinch 
+"Hello"
